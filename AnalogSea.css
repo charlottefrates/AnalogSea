@@ -1,0 +1,65 @@
+body{
+background-color: blue;
+margin-top: 50px;
+font-family: Verdana, Georgia, serif;
+font-size: 14px;	
+}
+
+.box{
+	background-color: white;
+	border-radius: 5px;
+	width: 400px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+
+#theForm{
+color: white;
+display: table;
+background-color: white;
+width: 400px
+padding-left:40px;
+padding-right: 40px;
+margin-left: auto;
+margin-right: auto;
+}
+
+.row{
+display: table-row;	
+}
+
+.row label{
+	display: block;
+	padding: 2px;
+	color: black;
+	margin-bottom: 5px;
+	margin-left: 25px;
+}
+
+.row input{
+	display: table-cell;
+	padding: 2px;
+	width:320px;
+	height: 55px;
+	margin-left: 25px;
+}
+
+h1{
+	font-size: 25px;
+}
+
+.button button{
+	width:320px;
+	height: 55px;
+	padding:15px;
+	background-color: green;
+	border: solid 2px;
+	cursor: pointer;
+}
+
+h5:hover{
+  color: green;
+}
+}
+}
